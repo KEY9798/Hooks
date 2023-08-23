@@ -1,1 +1,1 @@
-Hey I am learning Git Hooks
+Hey I am learning Git Hooks,Verifying all Test Cases.
